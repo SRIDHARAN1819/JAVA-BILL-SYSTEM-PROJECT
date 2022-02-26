@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javabillingSytem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/javabillingSytem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
